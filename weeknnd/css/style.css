@@ -1,0 +1,19 @@
+/*  login page */
+.card {    
+    padding: 15px;
+    max-width: 400px;
+    height: auto;
+    margin: 10px auto;
+    text-align: center;
+}
+
+
+
+p {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+ h1, h3 {
+    margin-top: 30px;
+}

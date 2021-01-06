@@ -1,0 +1,38 @@
+/************************************socialmedia******************************************/
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+#social-icons a{
+   
+    
+    margin: 0 20px;
+    font-size: 40px;
+    border-radius: 5px;
+    transition: transform 2s ease, color 2s ease;
+
+}
+
+.facebook{
+    color:#F0F8FF;
+
+}
+.instagram{
+    color: #F0F8FF;
+}
+.spotify{
+  color: #F0F8FF;
+}
+.youtube{
+  color: #F0F8FF;
+}
+
+/************************************transparent******************************************/
+
+.transparent{
+    padding: 10px;
+    text-align: center;
+    background:  linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
+    url(../images/background.png)center/cover fixed no-repeat;
+    color: white;
+
+}
+
